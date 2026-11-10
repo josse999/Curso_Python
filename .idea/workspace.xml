@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f952df6-2904-415c-bc46-900e8118f89c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Listas/Ejercicio_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/For_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/For_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/ListaCompra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/Pokemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/While_2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="4.710180870808639E-79" />
+      <entry key="MS500" value="3.7626698171718433E-16" />
+      <entry key="S2" value="2.7906298279107905E-4" />
+      <entry key="S5" value="0.11267180735025119" />
+      <entry key="S10" value="1.2855078504918505" />
+      <entry key="S30" value="9.76995974948844" />
+      <entry key="S60" value="19.292161525478754" />
+      <entry key="M2" value="31.01531104788694" />
+      <entry key="M5" value="51.583730340959626" />
+      <entry key="M10" value="78.47539411016454" />
+      <entry key="M15" value="102.92320904856274" />
+      <entry key="M30" value="165.27860986405915" />
+      <entry key="H1" value="288.0264724740364" />
+      <entry key="H2" value="522.4916585354625" />
+      <entry key="H4" value="804.6023372684451" />
+      <entry key="D1" value="1236.564279519477" />
+      <entry key="W1" value="1338.9233686533692" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000001603802" />
+      <entry key="S2" value="1.0042616149224954" />
+      <entry key="S5" value="1.1596633603984445" />
+      <entry key="S10" value="1.5597056954620028" />
+      <entry key="S30" value="2.6066543106480893" />
+      <entry key="S60" value="3.9749051054117226" />
+      <entry key="M2" value="6.349004252883263" />
+      <entry key="M5" value="11.523244383106931" />
+      <entry key="M10" value="17.227319883030717" />
+      <entry key="M15" value="21.349173386415917" />
+      <entry key="M30" value="30.307803052370343" />
+      <entry key="H1" value="44.05846974116742" />
+      <entry key="H2" value="62.93841720029496" />
+      <entry key="H4" value="81.4656571701057" />
+      <entry key="D1" value="106.4499697327919" />
+      <entry key="W1" value="112.02560681473904" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.752519534864818E-46" />
+      <entry key="MS500" value="8.981016153192792E-10" />
+      <entry key="S2" value="0.008464220827865604" />
+      <entry key="S5" value="0.36516782560623756" />
+      <entry key="S10" value="2.1305748157793163" />
+      <entry key="S30" value="11.994744312028375" />
+      <entry key="S60" value="23.006489808022803" />
+      <entry key="M2" value="37.17176631378439" />
+      <entry key="M5" value="62.97633644314673" />
+      <entry key="M10" value="95.60313312609371" />
+      <entry key="M15" value="124.18642812403253" />
+      <entry key="M30" value="195.52104138186834" />
+      <entry key="H1" value="332.03580811933114" />
+      <entry key="H2" value="585.3941080047734" />
+      <entry key="H4" value="886.0442341074215" />
+      <entry key="D1" value="1343.0089544262519" />
+      <entry key="W1" value="1450.9481758788495" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LJE67PJO29xrFRU97YMC2VW82U" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Ejercicio_1.executor": "Run",
+    "Python.ListaCompra.executor": "Run",
+    "Python.PlanetaReplica.executor": "Run",
+    "Python.Pokemon.executor": "Debug",
+    "Python.While.executor": "Debug",
+    "Python.While_2.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/josea/OneDrive/Documentos/Curso_Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "ml.llm.AcpAgentsConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f952df6-2904-415c-bc46-900e8118f89c" name="Changes" comment="" />
+      <created>1790110312525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790110312525</updated>
+      <workItem from="1790110317847" duration="192000" />
+      <workItem from="1793163595062" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/While/While.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Listas/ListaCompra.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
