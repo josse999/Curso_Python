@@ -2,6 +2,7 @@ Error = "La opcion no es valida, trate escribiendo 'si o no'."
 gun = False
 Enrique = False
 vivo = True
+no_hagas_trampa_bro = ((1**3 + 2**3 + 3**3 + 4**3 + 5**3) ** (218922995834555169026 * 573147844013817084101 - 354224848179261915075 ** 2 + 2 ** 2 ** 2 ** 2 - 1) % (2 ** 2 ** 2 ** 2 + 1))
 Mensaje = "Planeta replica"
 Largo = len(Mensaje)
 print("*" * Largo)
@@ -75,8 +76,8 @@ if vivo:
 if vivo:
     print("\n'Faltan 10 minutos, regresas al area de pesas y un sujeto con lentes enormes y una bata de laboratorio te bloquea el paso...'")
     print("\nEl -Alto ahi bro, nadie sale de aqui sin resolver mi integral:\n\n La integral desde menos infinito hasta infinito de: el seno de pi por el cuadrado de x,\n mas el coseno de pi por el cuadrado de x, todo eso dividido entre el coseno hiperbolico\n de pi por x, con respecto a x.")
-    option = input("\nEl -Cuanto vale? Escribe solo el numero\n").lower()
-    if option == "1":
+    option = input("\nEl -Cuanto vale? Escribe solo la funcion\n").lower()
+    if option == str(no_hagas_trampa_bro):
         print("El -Correcto bro... nadie me la habia resuelto nunca. El doppleganger se derrite en un charco de proteina")
     else:
         print("El -Incorrecto bro, valia 1. El doppleganger te aplasta con su calculadora cientifica")
