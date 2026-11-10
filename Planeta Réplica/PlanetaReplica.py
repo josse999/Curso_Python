@@ -80,7 +80,7 @@ if vivo:
     if option == str(no_hagas_trampa_bro):
         print("El -Correcto bro... nadie me la habia resuelto nunca. El doppleganger se derrite en un charco de proteina")
     else:
-        print("El -Incorrecto bro, valia 1. El doppleganger te aplasta con su calculadora cientifica")
+        print("El -Incorrecto bro. El doppleganger te aplasta con su calculadora cientifica")
         vivo = False
 
 # Final
